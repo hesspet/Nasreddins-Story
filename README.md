@@ -9,12 +9,15 @@ The tales of Nasreddin date back to the 13th century and are widespread across m
 
 ## Nasr ad-Din al-Quffaz (Nasreddin the Glove)
 
-When the trick **Mr. Gloves** by [Juan Pablo](https://www.penguinmagic.com/magician/juan-pablo), an Argentinian Magician and inventor of magic tricks, was released, I bought it immediately.
+When the trick **"Mr. Gloves"** by [Juan Pablo](https://www.penguinmagic.com/magician/juan-pablo), an Argentinian magician and inventor of magic tricks, was released, I bought it immediately. I saw the promotion video, I saw how one of the routines was done and I loved the small puppet.
+
 * [Promotion Video](https://cdn.penguinmagic.com/h264/trailers/65de239961f04_360p.mp4)
 * [Review](https://www.youtube.com/watch?v=njTG4mPjbsg)
 * [Where to buy in DE?](https://secret-magic-store.de/collections/zoom-meeting-06-02-2024/products/mr-gloves-juan-pablo)
 
-The character wears a distinctive hat – which inspired us to name him **Nasr ad-Din al-Quffaz (نصر الدين القفاز)**, roughly translating to *Nasreddin the Glove*. That’s also where this project’s name came from.
+## The Name
+
+The character wears a distinctive hat - a sort of a turban – which inspired us to name him **Nasr ad-Din al-Quffaz (نصر الدين القفاز)**, roughly translating to *Nasreddin the Glove*. That’s also where this project’s name came from.
 
 Believe me, he truly embodies Nasreddin Hodja’s spirit when he performs! His antics are often reminiscent of the old tales of his namesake.
 
