@@ -9,7 +9,7 @@ The tales of Nasreddin date back to the 13th century and are widespread across m
 
 ## Nasr ad-Din al-Quffaz (Nasreddin the Glove)
 
-When the trick **Mr. Gloves** by Juan Pablo was released, I bought it immediately.
+When the trick **Mr. Gloves** by [Juan Pablo](https://www.penguinmagic.com/magician/juan-pablo), an Argentinian Magician and inventor of magic tricks, was released, I bought it immediately.
 (Review: [https://www.youtube.com/watch?v=njTG4mPjbsg](https://www.youtube.com/watch?v=njTG4mPjbsg))
 (Source: [https://secret-magic-store.de/collections/zoom-meeting-06-02-2024/products/mr-gloves-juan-pablo](https://secret-magic-store.de/collections/zoom-meeting-06-02-2024/products/mr-gloves-juan-pablo))
 
