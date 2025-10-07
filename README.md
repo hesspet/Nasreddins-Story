@@ -34,3 +34,7 @@ And as you can already see from this repository, Nasreddin and I (Peter Heß) ha
 By now, he even has his own business cards, a whole box of magical props, and something of a small fan community.
 
 And of course, he is the namesake of the magic projects on Peter’s GitHub.
+
+## Blog
+
+Yes, Nasreddins has startet his own blog: [https://nasredin-qafaz-al-ahmar.blogspot.com](https://nasredin-qafaz-al-ahmar.blogspot.com)
