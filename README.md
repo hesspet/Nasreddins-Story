@@ -10,8 +10,9 @@ The tales of Nasreddin date back to the 13th century and are widespread across m
 ## Nasr ad-Din al-Quffaz (Nasreddin the Glove)
 
 When the trick **Mr. Gloves** by [Juan Pablo](https://www.penguinmagic.com/magician/juan-pablo), an Argentinian Magician and inventor of magic tricks, was released, I bought it immediately.
-(Review: [https://www.youtube.com/watch?v=njTG4mPjbsg](https://www.youtube.com/watch?v=njTG4mPjbsg))
-(Source: [https://secret-magic-store.de/collections/zoom-meeting-06-02-2024/products/mr-gloves-juan-pablo](https://secret-magic-store.de/collections/zoom-meeting-06-02-2024/products/mr-gloves-juan-pablo))
+* [Promotion Video](https://cdn.penguinmagic.com/h264/trailers/65de239961f04_360p.mp4)
+* [Review](https://www.youtube.com/watch?v=njTG4mPjbsg)
+* [Where to buy in DE?](https://secret-magic-store.de/collections/zoom-meeting-06-02-2024/products/mr-gloves-juan-pablo)
 
 The character wears a distinctive hat – which inspired us to name him **Nasr ad-Din al-Quffaz (نصر الدين القفاز)**, roughly translating to *Nasreddin the Glove*. That’s also where this project’s name came from.
 
@@ -23,7 +24,7 @@ In the picture, you can see one version of Nasreddin. The original glove by Juan
 
 You can also see that I use a different type of eyes — finger eyes that you can buy in toy stores. They’re a fun alternative to the original trick’s eyes. They’re cheap, and sometimes Nasreddin even gives some away to children... (You can get a pack of 100 quite cheaply from China. Since I don’t need all colors, there are always happy recipients for the extras.)
 
-## more
+## More
 
 And as you can already see from this repository, Nasreddin and I (Peter Heß) have become something like a well-rehearsed team. Nasreddin has already appeared in museums, at street festivals, family celebrations, and sometimes just casually out on the street with Peter. Nasreddin doesn’t speak — but he acts. Peter, on the other hand, does all the talking. We argue about who the better magician is. Nasreddin tends to exaggerate things quite a bit. He’s certainly doing his best to live up to his namesake.
 
